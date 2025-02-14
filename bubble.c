@@ -54,6 +54,7 @@ int main()
     //{
     //    scanf("%d", &a[i]);
     //}
+    bubble(a,n);
     printf("Array after sorting:\n");
     for(i=0;i<n;i++)
     {
